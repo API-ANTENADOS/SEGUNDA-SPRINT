@@ -30,3 +30,16 @@ Dashboard - Empresas de Telecomunicações: Visão Geográfica
 *Dashboard apresenta um levantamento das principais áreas de formação superior relacionadas às seis principais empresas de telecomunicações de São José dos Campos. O painel identifica a presença de profissionais e oportunidades de formação nas áreas de Telecomunicações, Elétrica, Eletrônica, Computação, TI, Administração, Gestão e Engenharias. A análise permite compreender as qualificações acadêmicas mais demandadas pelo setor, evidenciando a relação entre a formação profissional e as necessidades do mercado de telecomunicações regional.*
 
 <img width="927" height="476" alt="WhatsApp Image 2026-11-08 at 19 11 51" src="https://github.com/user-attachments/assets/96e68660-0dcf-4bb9-9a4d-374bb8c4c5d9" />
+
+Vídeo da Segunda Sprint
+-
+*ASSUNTO DO VIDEO*
+
+*LINK*
+
+Cronograma Segunda Sprint
+-
+
+| <span translate="no">Fase</span> | <span translate="no">Início</span> | <span translate="no">Entrega</span> | <span translate="no">Status</span> |
+| :--- | :---: | :---: | :---: |
+| [Sprint 2](#) | 22/10/2026 | 12/11/2026 | :white_check_mark: |
