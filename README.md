@@ -1,6 +1,6 @@
 Segunda Sprint - Antenados
 -
-
+*Na segunda etapa, o projeto amplia a análise do ecossistema de telecomunicações de São José dos Campos por meio de dashboards interativos, mapas geográficos e indicadores estratégicos. A solução permite visualizar a distribuição das 96 empresas mapeadas, comparar categorias de atuação, identificar regiões com maior concentração de empresas e analisar as áreas de formação profissional relacionadas às principais organizações do setor. Com base no backlog do projeto, também foram definidos recursos para consulta por CEP, análise da evolução das contratações nos últimos cinco anos, identificação do perfil de formação dos profissionais e acesso às fontes dos dados. O objetivo é transformar informações públicas em conhecimento estratégico, facilitando a tomada de decisões e a compreensão do mercado de telecomunicações na região.*
 
 Backlog do Produto
 -
