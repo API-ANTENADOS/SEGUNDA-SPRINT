@@ -21,11 +21,12 @@ Dashboard - Empresas de Telecomunicações: Visão Geográfica
 -
 *Dashboard interativo que apresenta o mapeamento geográfico de 96 empresas de telecomunicações em São José dos Campos. A ferramenta permite visualizar a localização das organizações no município, identificar suas categorias de atuação e analisar a participação de cada segmento no mercado. Por meio de mapas e gráficos interativos, o painel facilita a compreensão da distribuição empresarial e oferece uma visão estratégica do ecossistema de telecomunicações da região.*
 
-<img width="1000" height="562" alt="DashBoard - 2 Sprint" src="https://github.com/user-attachments/assets/3493abea-f1fb-4f5f-bddf-baf22720595c" />
+<img width="989" height="546" alt="WhatsApp Image 2026-11-08 at 17 34 18" src="https://github.com/user-attachments/assets/2a82d412-3b39-4fdd-8612-e9fd44ccce1e" />
+
 
  Dashboard - Cursos Superiores: Formação Profissional em Telecomunicações – SJC
 -
 
 *Dashboard apresenta um levantamento das principais áreas de formação superior relacionadas às seis principais empresas de telecomunicações de São José dos Campos. O painel identifica a presença de profissionais e oportunidades de formação nas áreas de Telecomunicações, Elétrica, Eletrônica, Computação, TI, Administração, Gestão e Engenharias. A análise permite compreender as qualificações acadêmicas mais demandadas pelo setor, evidenciando a relação entre a formação profissional e as necessidades do mercado de telecomunicações regional.*
 
-<img width="939" height="571" alt="Cursos Superiores" src="https://github.com/user-attachments/assets/6ed2c3ec-c402-4723-9f7f-a07ac48a792b" />
+<img width="927" height="476" alt="WhatsApp Image 2026-11-08 at 19 11 51" src="https://github.com/user-attachments/assets/96e68660-0dcf-4bb9-9a4d-374bb8c4c5d9" />
