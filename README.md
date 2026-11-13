@@ -33,9 +33,9 @@ Dashboard - Empresas de Telecomunicações: Visão Geográfica
 
 Vídeo da Segunda Sprint
 -
-*ASSUNTO DO VIDEO*
+*Neste vídeo, apresentamos nosso projeto Observatório de Inovações, desenvolvido durante o curso, com foco nas empresas de telecomunicações de São José dos Campos. Compartilhamos nossas pesquisas, análises de dados e aprendizados sobre o setor, colocando em prática nossos conhecimentos e trabalhando em equipe.*
 
-*LINK*
+https://youtu.be/B8zLfqFLOqY?si=4uFoa6gDmShky-78
 
 Cronograma Segunda Sprint
 -
